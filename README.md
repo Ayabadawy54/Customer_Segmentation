@@ -1,4 +1,6 @@
 # Customer_Segmentation
+[Original_Datasett](https://www.kaggle.com/code/fabiendaniel/customer-segmentation/input)
+
 
 📊 Project Overview:
 
